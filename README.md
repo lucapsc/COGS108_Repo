@@ -1,2 +1,3 @@
-# COGS108_Repo
+![image](https://github.com/user-attachments/assets/3961300c-9a0b-4174-b464-c1dc76c93ac8)# COGS108_Repo
 The start of something great...
+!(alt text) [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQx8FmBhxRhLFdMbnOvBft7ZrsoK4EMfMgw&s]
