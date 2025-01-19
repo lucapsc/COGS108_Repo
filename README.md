@@ -1,2 +1,2 @@
 # COGS108_Repo
-Repository for COGS 108
+The start of something great...
